@@ -1,0 +1,11 @@
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\bin\Debug\SifreliResim.exe.config
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\bin\Debug\SifreliResim.exe
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\bin\Debug\SifreliResim.pdb
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.csproj.AssemblyReference.cache
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.Form1.resources
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.Properties.Resources.resources
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.csproj.GenerateResource.cache
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.exe
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.pdb
+C:\Users\Muhammed Ali\Desktop\sifreleme\SifreliResim\obj\Debug\SifreliResim.exe.config
